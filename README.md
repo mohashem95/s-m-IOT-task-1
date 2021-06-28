@@ -1,6 +1,6 @@
 # s-m-IOT-task-1
 
- **you can find English description below ** 
+ ** you can find English description below ** 
 
 
 بسم الله الرحمن الرحيم 
@@ -39,7 +39,7 @@
  this is the first task of smart methods summer training program.
  
  
- **Overveiw: **
+ ** Overveiw: **
  
  This web app is a control panel for robotic arm, user will use the sliders to set the angle of each motor of 6 motors,  then will set the switch on/off and click save, and the angles values and the switch value will all be saved to the databse.
  
